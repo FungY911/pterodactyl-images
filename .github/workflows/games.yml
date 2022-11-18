@@ -47,4 +47,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/software-noob/pterodactyl-images:games_${{ matrix.tag }}
+            ghcr.io/FungY911/pterodactyl-images:games_${{ matrix.tag }}
