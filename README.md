@@ -1,4 +1,4 @@
-# Pterodactyl/WISP Docker Images
+# BoatHost Pterodactyl Docker Images
 
 [![build java](https://github.com/FungY911/pterodactyl-images/actions/workflows/java.yml/badge.svg)](https://github.com/FungY911/pterodactyl-images/actions/workflows/java.yml)
 
