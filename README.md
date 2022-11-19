@@ -1,6 +1,6 @@
 # Pterodactyl/WISP Docker Images
 
-Docker images that can be used with the Pterodactyl/WISP Game Panel. You can request more images by opening a new issue. These are mostly created for myself.
+[![build java](https://github.com/FungY911/pterodactyl-images/actions/workflows/java.yml/badge.svg)](https://github.com/FungY911/pterodactyl-images/actions/workflows/java.yml)
 
 Additional Pterodactyl images can be found at [Parkervcp](https://github.com/parkervcp/images), [Matthewpi](https://github.com/matthewpi/images) and [Yolks](https://github.com/pterodactyl/yolks) repositories.
 
